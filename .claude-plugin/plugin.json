@@ -1,9 +1,9 @@
 {
-  "name": "cadence-presence",
-  "description": "Executive presence and leadership skills — Gartner-sourced frameworks for personal brand, data storytelling, competitor analysis, and conflict resolution.",
+  "name": "cadence-voice",
+  "description": "Communication and presence — prose craft and AI pattern detection, personal brand, data storytelling, competitor analysis, conflict resolution.",
   "author": { "name": "Cameron Sjo", "url": "https://github.com/cameronsjo" },
-  "repository": "https://github.com/cameronsjo/cadence-presence",
+  "repository": "https://github.com/cameronsjo/cadence-voice",
   "license": "MIT",
-  "keywords": ["cadence", "presence", "leadership", "executive", "gartner", "brand", "communication"],
+  "keywords": ["cadence", "voice", "writing", "presence", "leadership", "communication", "brand"],
   "dependencies": ["cadence"]
 }
