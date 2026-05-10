@@ -1,5 +1,5 @@
 ---
-name: cadence-presence:building-personal-brand
+name: cadence-voice:building-personal-brand
 description: Use when developing or refining a personal brand strategy
 license: MIT
 metadata:

@@ -1,5 +1,5 @@
 ---
-name: cadence-presence:resolving-conflicts
+name: cadence-voice:resolving-conflicts
 description: Use when navigating or de-escalating a workplace conflict
 license: MIT
 metadata:
