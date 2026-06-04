@@ -1,5 +1,5 @@
 ---
-name: writing
+name: cadence-voice:writing
 description: |
   This skill should be used when writing, editing, revising, or humanizing
   professional prose -- blog posts, newsletters, editorials, internal evangelism
