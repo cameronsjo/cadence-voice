@@ -470,9 +470,6 @@ Revisit Goffman's three identities:
 
 **Source:** Based on Gartner research "Develop an Executive Presence by Building an Intentional Personal Brand" (G00754773, January 2022)
 
-**Last Updated:** 2025-11-10
-
-
 ## References
 
 - [Part 4: Distill Aspirational and Anti-Brand Lists](references/part-4-distill-aspirational-and-anti-brand-lists.md)
