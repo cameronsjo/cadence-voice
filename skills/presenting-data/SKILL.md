@@ -1,5 +1,5 @@
 ---
-name: cadence-voice:presenting-data
+name: presenting-data
 description: Use when presenting data findings as a narrative or building a data-driven argument
 license: MIT
 metadata:

@@ -1,5 +1,5 @@
 ---
-name: cadence-voice:analyzing-competitors
+name: analyzing-competitors
 description: Use when analyzing a competitor from a GitHub URL with deep dive and landscape update
 disable-model-invocation: true
 license: MIT
