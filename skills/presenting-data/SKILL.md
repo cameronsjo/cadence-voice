@@ -449,15 +449,6 @@ Alternative: Target only "flight risk" employees (top 20% identified via stay in
 4. Next: Expansion plan with investment and ROI
 5. Risk Mitigation: Market comparison showing our competitive positioning
 
-## Related Skills
-
-- **api-design**: For presenting technical API decisions to executives, apply storytelling framework to technical tradeoffs
-- **prompt-engineering**: For executives using AI tools, explain prompt patterns using data storytelling techniques
-- **security-review**: For presenting security findings to board, use depersonalization strategies for vulnerabilities
-- **feature-flags**: For explaining gradual rollout strategy, use What/Why/Next to justify phased approach
-- **mcp-development**: For presenting MCP integration strategy, translate technical benefits to business outcomes
-
-
 ## References
 
 Each reference expands on the framework above. Pull in the one that matches what you are doing:
