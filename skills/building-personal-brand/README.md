@@ -41,13 +41,6 @@ Claude will automatically invoke this skill when you discuss:
 - 6 worksheets for brand discovery and synthesis
 - 6 templates for brand observation, conversations, and development
 - 3 assessments for self-awareness and brand alignment
-- 3 scripts for analyzing feedback and generating brand language
-
-**Scripts:**
-
-- `analyze-feedback.py` - Extract themes from performance reviews
-- `brand-keywords-generator.py` - Generate distinctive brand language
-- `zone-validator.py` - Test if your zone of distinction is specific enough
 
 ## Key Features
 

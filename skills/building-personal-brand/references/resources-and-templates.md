@@ -29,11 +29,3 @@ Located in `resources/assessments/`:
 1. **self-awareness-diagnostic.md** - Evaluate your current self-awareness
 2. **brand-alignment-check.md** - Test alignment between current and aspirational brand
 3. **influence-audit.md** - Assess your current influence and impact
-
-### Scripts
-
-Located in `scripts/`:
-
-1. **analyze-feedback.py** - Extract themes from performance reviews and feedback
-2. **brand-keywords-generator.py** - Generate distinctive brand language
-3. **zone-validator.py** - Test if your zone of distinction is sufficiently specific
