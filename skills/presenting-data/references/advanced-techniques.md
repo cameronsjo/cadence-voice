@@ -121,3 +121,144 @@ Make it crystal clear what you need from the executive audience.
 Include explicit "Decision Required" section on final slide:
 
 ```markdown
+## Decision Required
+
+**Type**: Approval
+
+**Ask**: Approve $450K investment to expand design thinking labs to 3 locations
+
+**Options**:
+- Option 1 (Recommended): Full expansion to Austin, Bentonville, Seattle - $450K, 18x-27x ROI
+- Option 2: Pilot one additional location first - $180K, validate model before full expansion
+- Option 3: Maintain current state - $0, forgo estimated $8M-12M in efficiency gains
+
+**Timeline**: Decision needed by Aug 15 to launch in Q3
+
+**Next Steps**:
+- If approved: Kickoff meetings week of Aug 19
+- If Option 2: Pilot selection decision required
+- If Option 3: Redirect team to other initiatives
+```
+
+**Benefits:**
+
+- Eliminates ambiguity about purpose of presentation
+- Focuses discussion on decision, not just information sharing
+- Provides clear options for executives who want alternatives
+- Creates accountability (decision by specific date)
+
+### Technique 5: The "So What" Cascade
+
+Ensure every piece of data connects to executive priorities through layered implications.
+
+**Cascade Structure:**
+
+```
+Data Point
+↓ So what?
+Operational Implication
+↓ So what?
+Business Implication
+↓ So what?
+Strategic Implication (connects to CEO priority)
+```
+
+**Example:**
+
+```
+"Website page load time decreased from 4.2s to 1.8s"
+↓ So what?
+"Bounce rate dropped from 58% to 32%"
+↓ So what?
+"More visitors engage with content and product pages"
+↓ So what?
+"Conversion rate increased 23%, generating 840 additional leads per month"
+↓ So what?
+"This contributes $2.1M to quarterly pipeline, accelerating our path to $50M growth target (CEO Priority: Growth)"
+```
+
+**Application**: For every metric you present, trace the cascade from technical detail to strategic impact. Present the strategic implication first, support with the cascade if questioned.
+
+### Technique 6: Competitive Positioning Narrative
+
+Frame your recommendations in competitive context to create urgency.
+
+**Positioning Strategies:**
+
+**1. First-Mover Advantage**:
+"Our AI-powered customer service reduces resolution time by 60%. No competitor has deployed this capability at scale. Launching in Q3 positions us 6-9 months ahead of competitive response, capturing early adopter segment."
+
+**2. Defensive Play**:
+"Competitor X announced mobile-first redesign last month. Our current mobile experience lags behind (App Store rating: 3.2 vs. their 4.6). Without investment in mobile, we risk losing 35% of our user base (mobile-first millennials) over next 12 months."
+
+**3. Leapfrog Strategy**:
+"While competitors focus on incremental improvements to legacy systems, we have opportunity to leapfrog with cloud-native architecture. This enables capabilities they can't match without complete platform rebuild (estimated 2-3 years for them)."
+
+**4. Market Expansion**:
+"Our enterprise solution succeeded in financial services (35% market penetration). Healthcare vertical shows similar characteristics and $400M TAM, but only 2 competitors present. Early entry captures market leadership before segment matures."
+
+**Framework**:
+
+```markdown
+## Competitive Context
+
+### Current Position
+- Our capability: [metric]
+- Competitor average: [metric]
+- Market leader: [metric]
+
+### Opportunity/Threat
+- What competitors are doing: [brief description]
+- Timeline: [when competitive action happens]
+- Impact if we act: [positive outcome]
+- Impact if we don't act: [risk/loss]
+
+### Recommendation
+- [Action to take]
+- [Competitive advantage gained]
+- [Window of opportunity timeline]
+```
+
+### Technique 7: The Scenario Planning Approach
+
+For high-uncertainty situations, present multiple scenarios with probabilities and responses.
+
+**Scenario Structure:**
+
+```markdown
+## Market Expansion: Three Scenarios
+
+### Optimistic Scenario (30% probability)
+- Economy remains strong, enterprise budgets increase
+- Expected outcome: $18M revenue, 35% growth
+- Our response: Aggressive hiring, expand to 3 regions
+
+### Base Case (50% probability)
+- Moderate growth, stable budgets
+- Expected outcome: $14M revenue, 20% growth
+- Our response: Disciplined hiring, 2 regions
+
+### Pessimistic Scenario (20% probability)
+- Economic downturn, budget freezes
+- Expected outcome: $9M revenue, flat growth
+- Our response: Freeze hiring, focus on retention
+
+### Recommendation
+- Invest for Base Case (most likely)
+- Maintain flexibility to scale up or down based on Q3 signals
+- Decision point: End of Q3 to adjust Q4 strategy
+```
+
+**Use When**:
+
+- High market uncertainty
+- Significant investment decisions
+- Long-term strategic planning
+- Executives need to understand risk spectrum
+
+**Benefits**:
+
+- Demonstrates strategic thinking and risk awareness
+- Provides clear triggers for strategy adjustments
+- Shows you've thought through multiple futures
+- Reduces "what if" objections
