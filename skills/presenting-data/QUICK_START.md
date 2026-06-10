@@ -62,16 +62,6 @@ Connect every metric to one of these:
 - **chart-selection-guide.md**: Choose the right visuals
 - **ceo-priorities-2024.md**: Align with executive priorities
 
-## Quick Scripts
-
-```bash
-# Analyze your presentation
-python scripts/analyze-presentation.py deck.pptx
-
-# Validate your narrative
-python scripts/narrative-validator.py narrative.md
-```
-
 ## Common Mistakes to Avoid
 
 1. **Jargon overload**: Define acronyms or eliminate them

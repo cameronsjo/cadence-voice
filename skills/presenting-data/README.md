@@ -76,15 +76,6 @@ Practical templates and reference materials:
 - `color-psychology-guide.md` - Strategic color use
 - `executive-vocabulary.md` - Common terms by role (CFO, CRO, CTO)
 
-### Scripts Folder
-
-Python utilities for analysis and validation:
-
-- `analyze-presentation.py` - Check for jargon, bullet count, readability
-- `priority-mapper.py` - Map your metrics to CEO priorities
-- `narrative-validator.py` - Verify What/Why/Next components
-- `appendix-organizer.py` - Structure and reference appendix slides
-
 ## Key Features
 
 ### 1. The What/Why/Next Framework
@@ -258,7 +249,6 @@ Full documentation and examples are available in:
 
 - **SKILL.md**: Comprehensive framework guide (20,000+ words)
 - **resources/**: Templates, checklists, reference materials
-- **scripts/**: Analysis and validation utilities
 
 ## Getting Help
 

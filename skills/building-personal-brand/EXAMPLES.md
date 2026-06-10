@@ -34,8 +34,6 @@ How do I build executive presence for a more business-oriented role?
 
 5. **Creates aspirational brand:**
    - Suggests transformation: "Technical expert" → "Business-technology partner"
-   - Runs brand-keywords-generator.py for CIO role suggestions
-   - Validates with zone-validator.py
 
 6. **Develops recalibration strategy:**
    - Shift language from technical to business outcomes
@@ -87,7 +85,6 @@ How do I know if I'm ready and what I need to work on?
 
 5. **Builds VP-level brand promise:**
    - Example: "Strategic business outcome architect"
-   - Validates with zone-validator.py (target score: 8-10)
 
 6. **Defines proof points:**
    - Helps identify track record examples that demonstrate VP-level impact
@@ -178,80 +175,6 @@ build executive presence and credibility?
 
 ---
 
-## Example 5: Using the Scripts
-
-### Script Usage Example 1: Validate Zone of Distinction
-
-```bash
-# Interactive validation session
-python scripts/zone-validator.py --interactive
-
-# Output example:
-> Enter your zone of distinction: Digital transformation catalyst
-> Analyzing: Digital transformation catalyst
-> Specificity Score: 9 / 10
-> ✅ Highly distinctive!
->
-> Run the five validation tests? (y/n): y
->
-> 1. DISTINCTION TEST
->    Could this zone of distinction apply to any of your peers,
->    or is it uniquely yours?
->    Answer (unique/peers/uncertain): unique
->
-> [continues through all 5 tests]
->
-> Generate full markdown report? (y/n): y
-> ✅ Report written to zone-validation-report.md
-```
-
-### Script Usage Example 2: Generate Brand Keywords
-
-```bash
-# Get CIO-specific brand suggestions
-python scripts/brand-keywords-generator.py --role cio
-
-# Output includes:
-# - 8 distinctive approaches (Digital transformation, Business-technology partnership, etc.)
-# - 8 value descriptors (catalyst, enabler, co-creator, etc.)
-# - 5 example brand promises
-# - 40+ additional combinations
-```
-
-### Script Usage Example 3: Transform Generic Language
-
-```bash
-# Test and improve generic brand language
-python scripts/brand-keywords-generator.py \
-  --input "strategic thinker" \
-  --test
-
-# Output includes:
-# - Distinctiveness score (1-5)
-# - Suggested alternatives:
-#   - "business outcome architect"
-#   - "future-state planner"
-#   - "strategic roadmap curator"
-# - Tips for making language more distinctive
-```
-
-### Script Usage Example 4: Analyze Feedback
-
-```bash
-# Extract themes from performance reviews
-python scripts/analyze-feedback.py \
-  --file performance-review-2024.txt \
-  --output feedback-analysis.md
-
-# Generates report with:
-# - Most frequent themes
-# - Positive vs. negative sentiment
-# - Keywords and phrases
-# - Recommendations for brand positioning
-```
-
----
-
 ## Example 6: Using Worksheets and Templates
 
 ### Worksheet Flow for Complete Brand Development
@@ -281,7 +204,6 @@ python scripts/analyze-feedback.py \
 
 6. **Develop brand promise:**
    - Use `resources/worksheets/brand-promise-development.md`
-   - Validate with zone-validator.py script
    - Document in `resources/templates/brand-promise-statement.md`
 
 7. **Assess progress:**
@@ -392,13 +314,11 @@ python scripts/analyze-feedback.py \
 - Create aspirational brand list
 - Create anti-brand list
 - Develop brand promise statement
-- Validate with zone-validator.py
 
 ### Weeks 7-8: Validation
 
 - Test brand promise with trusted advisors
 - Refine based on feedback
-- Run brand-keywords-generator.py for alternatives
 
 ### Months 3-6: Implementation
 
@@ -425,39 +345,31 @@ Be brutally honest in self-assessments. Remember: 95% of people overestimate the
 
 Don't skip the brand discovery conversations. Your perception of yourself is not reality.
 
-### 3. Use the Scripts
-
-The Python scripts provide objective analysis:
-
-- zone-validator.py prevents generic brand promises
-- brand-keywords-generator.py sparks distinctive language
-- analyze-feedback.py finds patterns you might miss
-
-### 4. Focus on Distinction
+### 3. Focus on Distinction
 
 "Dependable technologist" is forgettable. "Technical debt eliminator" is memorable.
 
-### 5. Align with Market Needs
+### 4. Align with Market Needs
 
 Your brand must serve your market's needs, not just your preferences.
 
-### 6. Be Patient
+### 5. Be Patient
 
 Brand perception shifts take 6-18 months of consistent behavior change.
 
-### 7. Recalibrate, Don't Reinvent
+### 6. Recalibrate, Don't Reinvent
 
 Most leaders need adjustment, not transformation. Work with who you are.
 
-### 8. Maintain Authenticity
+### 7. Maintain Authenticity
 
 Unsustainable brands collapse under pressure. Align with your values.
 
-### 9. Create the Anti-Brand
+### 8. Create the Anti-Brand
 
 What you stop doing is as important as what you start doing.
 
-### 10. Measure Impact
+### 9. Measure Impact
 
 Executive presence is proven through what people do (Impact), not just what they think (Image) or feel (Impressions).
 

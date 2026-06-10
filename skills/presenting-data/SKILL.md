@@ -460,17 +460,10 @@ Alternative: Target only "flight risk" employees (top 20% identified via stay in
 
 ## References
 
-- [Depersonalization Strategies](references/depersonalization-strategies.md)
-- [Failed Initiative/Missed Target](references/failed-initiative-missed-target.md)
-- [Visual Design Best Practices](references/visual-design-best-practices.md)
-- [Common Pitfalls and How to Avoid Them](references/common-pitfalls-and-how-to-avoid-them.md)
-- [Advanced Techniques](references/advanced-techniques.md)
-- [Decision Required](references/decision-required.md)
-- [Competitive Context](references/competitive-context.md)
-- [Market Expansion: Three Scenarios](references/market-expansion-three-scenarios.md)
-- [Resources](references/resources.md)
-- [Integration Patterns](references/integration-patterns.md)
-- [Best Practices Summary](references/best-practices-summary.md)
-- [Troubleshooting Guide](references/troubleshooting-guide.md)
-- [Testing Your Narrative](references/testing-your-narrative.md)
-- [Continuous Improvement](references/continuous-improvement.md)
+Each reference expands on the framework above. Pull in the one that matches what you are doing:
+
+- **[Advanced Techniques](references/advanced-techniques.md)**: Read when you need to influence the room beyond a clean narrative (emotional tone, pre-wiring stakeholders, the appendix strategy, the "Decision Required" framework, the "So What" cascade, and competitive or scenario positioning).
+- **[Depersonalization Strategies](references/depersonalization-strategies.md)**: Read when presenting a failure, missed target, or setback and the narrative needs to stay analytical instead of defensive.
+- **[Visual Design Best Practices](references/visual-design-best-practices.md)**: Read when building the slides themselves (layout, chart selection, color, typography, deck structure).
+- **[Pitfalls and Troubleshooting](references/pitfalls-and-troubleshooting.md)**: Read when a draft feels off or a presentation fell flat (eight authoring pitfalls with fixes, plus live-room symptoms like disengagement, data pushback, or no clear decision).
+- **[Testing and Best Practices](references/testing-and-best-practices.md)**: Read before presenting (rehearsal exercises, the ten commandments, the pre-flight checklist) and after (the debrief loop).

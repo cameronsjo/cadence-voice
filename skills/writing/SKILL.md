@@ -1,22 +1,6 @@
 ---
 name: cadence-voice:writing
-description: |
-  This skill should be used when writing, editing, revising, or humanizing
-  professional prose -- blog posts, newsletters, editorials, internal evangelism
-  docs, technical writing, analytical briefings, white papers, or high-stakes
-  professional communications. Also applies when drafting decline emails,
-  incident reports, written feedback, escalation emails, or apologies.
-  Covers craft (structure, rhythm, voice, specificity), AI pattern cleanup
-  (32 patterns), and reader impact (how writing lands on the person
-  receiving it). Supports two registers: personal-voice (blog, newsletter,
-  evangelism) and analytical (briefing paper, white paper, policy analysis).
-  Triggers include: "write a blog post," "edit my draft," "make this sound
-  better," "clean this up," "humanize this," "decline email," "rejection
-  email," "incident report," "postmortem," "give feedback," "constructive
-  criticism," "escalation," "apology email," "status update," "executive
-  summary," "complaint response," "recommendation letter," "professional
-  email," "briefing paper," "white paper," "analytical paper," "write a
-  paper," "policy analysis," "technical evaluation."
+description: Use when writing, editing, revising, or humanizing professional prose (blog posts, technical writing, briefings, white papers, decline/feedback/incident/apology emails) or cleaning AI patterns out of a draft
 ---
 
 # Writing: Prose Editor and Craft Coach

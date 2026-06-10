@@ -18,15 +18,12 @@ executive-data-storytelling/
 ├── README.md (10KB)              # Quick reference and overview
 ├── TEST_PROMPTS.md               # Testing prompts for skill invocation
 ├── SKILL_SUMMARY.md             # This file
-├── resources/                    # Templates and reference materials
-│   ├── narrative-template.md    # What/Why/Next structure template
-│   ├── pre-presentation-checklist.md # 150+ point quality checklist
-│   ├── ceo-priorities-2024.md   # Gartner CEO priority data with examples
-│   ├── depersonalization-checklist.md # Failure communication framework
-│   └── chart-selection-guide.md # Visual design best practices
-└── scripts/                      # Python analysis utilities
-    ├── analyze-presentation.py   # Analyze deck for issues
-    └── narrative-validator.py    # Validate What/Why/Next structure
+└── resources/                    # Templates and reference materials
+    ├── narrative-template.md    # What/Why/Next structure template
+    ├── pre-presentation-checklist.md # 150+ point quality checklist
+    ├── ceo-priorities-2024.md   # Gartner CEO priority data with examples
+    ├── depersonalization-checklist.md # Failure communication framework
+    └── chart-selection-guide.md # Visual design best practices
 ```
 
 ---
@@ -185,20 +182,6 @@ Templates for explicit decision requests:
    - Typography guidelines
    - Common mistakes to avoid
    - Testing your charts
-
-### Scripts (2 Python utilities)
-
-1. **analyze-presentation.py** (12KB)
-   - Analyzes presentation for common issues
-   - Checks bullet count, jargon, readability
-   - Generates markdown report
-   - Command-line tool with verbose mode
-
-2. **narrative-validator.py** (11KB)
-   - Validates What/Why/Next structure
-   - Checks for required elements
-   - Identifies depersonalization issues
-   - Provides improvement recommendations
 
 ---
 
@@ -419,7 +402,6 @@ Templates for explicit decision requests:
 - Add new examples from real usage
 - Expand troubleshooting guide
 - Create additional templates
-- Update scripts with new features
 
 ---
 
@@ -458,9 +440,7 @@ Templates for explicit decision requests:
 | ceo-priorities-2024.md | 15KB | Gartner CEO priority data |
 | depersonalization-checklist.md | 14KB | Failure communication framework |
 | chart-selection-guide.md | 15KB | Visual design best practices |
-| analyze-presentation.py | 12KB | Presentation analysis script |
-| narrative-validator.py | 11KB | Narrative validation script |
-| **Total** | **~156KB** | Complete skill package |
+| **Total** | **~133KB** | Complete skill package |
 
 ---
 
@@ -470,10 +450,9 @@ Templates for explicit decision requests:
 
 1. ✅ Skill files created and organized
 2. ✅ Documentation complete
-3. ✅ Scripts executable
-4. ⏳ Test with real prompts
-5. ⏳ Verify trigger patterns
-6. ⏳ Validate resource accessibility
+3. ⏳ Test with real prompts
+4. ⏳ Verify trigger patterns
+5. ⏳ Validate resource accessibility
 
 ### Short-Term (First Month)
 
@@ -487,9 +466,8 @@ Templates for explicit decision requests:
 
 1. Annual update with new CEO priority data
 2. Add industry-specific examples
-3. Expand script capabilities
-4. Create additional templates
-5. Integration improvements with other skills
+3. Create additional templates
+4. Integration improvements with other skills
 
 ---
 
@@ -499,7 +477,6 @@ Templates for explicit decision requests:
 
 - Primary documentation (SKILL.md, README.md)
 - 5 comprehensive resource templates
-- 2 working Python scripts
 - Test prompts and validation methodology
 
 ### ✅ Comprehensive Framework
@@ -516,7 +493,6 @@ Templates for explicit decision requests:
 - Pre-presentation checklist (150+ points)
 - Depersonalization checklist with before/after examples
 - Chart selection guide with decision tree
-- Analysis and validation scripts
 
 ### ✅ Integration Guidance
 
@@ -546,8 +522,7 @@ Templates for explicit decision requests:
 6. **Visual Design**: Detailed chart selection and design principles
 7. **Real Examples**: 4 complete use case examples with before/after
 8. **Testing Support**: Test prompts and validation methodology included
-9. **Script Automation**: Python tools for analysis and validation
-10. **Integration Ready**: Works with security-review, api-design, feature-flags skills
+9. **Integration Ready**: Works with security-review, api-design, feature-flags skills
 
 ---
 
@@ -557,7 +532,6 @@ This skill is **production-ready** with:
 
 - ✅ Complete documentation (SKILL.md, README.md)
 - ✅ Comprehensive resources (5 templates)
-- ✅ Working scripts (2 Python utilities)
 - ✅ Test prompts for validation
 - ✅ Clear trigger patterns
 - ✅ Integration documentation
