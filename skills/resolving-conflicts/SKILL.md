@@ -330,18 +330,6 @@ Is behavior inappropriate and damaging?
 
 ---
 
-## Integration with Other Skills
-
-This skill works alongside:
-
-- **executive-data-storytelling** - Communicate the impact with data
-- **communication-styles** - Flex your approach based on their style
-- **executive-presence** - Maintain your brand during difficult situations
-- **feature-flags** - Use gradual rollout for policy changes
-- **security-review** - Assess risk systematically
-
----
-
 ## When Done Well
 
 Successful neutralization:

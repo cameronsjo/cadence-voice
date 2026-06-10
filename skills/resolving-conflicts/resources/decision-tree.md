@@ -116,7 +116,7 @@ Use this decision tree to determine your approach when facing political attacks.
 - Behavior continues despite conversations
 
 **Action:**
-- **YES:** Use verbal diplomacy techniques (see communication-styles skill)
+- **YES:** Use verbal diplomacy techniques
 - **NO:** Continue to next decision point
 
 ---

@@ -434,12 +434,6 @@ Revisit Goffman's three identities:
 
 **Key Principle:** Be distinctive but authentic. You don't need to manufacture a persona. You need to figure out how you want others to see what already makes you distinctive.
 
-## Related Skills
-
-- **executive-data-storytelling** - How to communicate data insights with executive presence
-- **prompt-engineering** - Can help develop brand language and messaging variants
-- **kubernetes-deployment** - For technical leaders building business brand while maintaining technical credibility
-
 ## Best Practices Summary
 
 1. **Start with radical self-awareness** - Most leaders overestimate how well they're perceived
